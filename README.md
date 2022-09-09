@@ -1,4 +1,4 @@
-# WDV 353 1.5 NodeJS Coding Assignment on repo test2
+# WDV 353 Assignment 1.6 - Testing in NodeJS
 
 ## To run app
 
