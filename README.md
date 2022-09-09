@@ -1,5 +1,11 @@
 # WDV 353 Assignment 1.6 - Testing in NodeJS
 
+### Modules included
+``` shell
+string 
+letterCount
+math
+```
 ## To run app
 
 ``` shell
