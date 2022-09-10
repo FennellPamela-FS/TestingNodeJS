@@ -1,10 +1,12 @@
-# WDV 353 Assignment 1.6 - Testing in NodeJS
+# WDV 353 Assignment 1.7 - NodeJS Testing
 
 ### Modules included
 ``` shell
-string 
-letterCount
-math
+math module
+
+This assignment is written to  test and code for a math module that will add, subtract, multiply, and divide. 
+
+Two additional test are written using the JavaScript Math Object for square root and max.
 ```
 ## To run app
 
