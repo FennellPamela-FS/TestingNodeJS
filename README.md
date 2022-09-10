@@ -15,7 +15,7 @@ for square root and max.
 ``` shell
 npm i
 
-used to install dependencies or devDependencies from a package .json file
+used to install dependencies or devDependencies from a package.json file
 ```
 
 ``` shell
